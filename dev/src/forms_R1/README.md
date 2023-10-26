@@ -10,4 +10,4 @@ webdriver-manager start
 
 Run gulp script connect-server-start
 
-Right click and rum protractorconf.js
+Right click and run protractorconf.js
