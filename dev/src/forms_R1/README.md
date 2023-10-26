@@ -11,3 +11,5 @@ webdriver-manager start
 Run gulp script connect-server-start
 
 Right click and run protractorconf.js
+
+Angular JS
